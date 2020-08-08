@@ -50,9 +50,9 @@ General mapper that charts a set of points using *leaflet.js*
 			- "AS"
 			- etc. (Any of the 56 US state/territory postal abbreviations)
 	- ***"zoom-lat-long"***
-			- array
-			- default = null
-			- [lat_min, long_min, lat_max, long_max]
+		- array
+		- default = null
+		- [lat_min, long_min, lat_max, long_max]
 
 note: default zoom (if no zoom type is selected)will bound around the inputted points with some margin
 
