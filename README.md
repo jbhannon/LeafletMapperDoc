@@ -49,7 +49,7 @@ General mapper that charts a set of points using *leaflet.js*
 			- "AK"
 			- "AS"
 			- etc. (Any of the 56 US state/territory postal abbreviations)
-		- ***"zoom-lat-long"***
+	- ***"zoom-lat-long"***
 			- array
 			- default = null
 			- [lat_min, long_min, lat_max, long_max]
